@@ -2,11 +2,13 @@ LSTM-Based Next Word Prediction
 
 An end-to-end NLP deep learning project that predicts the next most probable word(s) given an input text sequence using an LSTM neural network.
 The model is trained on literary text and deployed as a live web application.
-
+----------------------------------------------------------------------------------------------------------------------------------
 Live Demo
 
 🔗 Deployed Application:
 --> https://lstm-next-word-prediction-rnn-dheeraj-m-g.streamlit.app/
+
+
 <img width="1919" height="1079" alt="Screenshot 2026-01-15 122910" src="https://github.com/user-attachments/assets/ed4122cc-a672-4990-880e-be3ae5cfbc28" />
 
 
