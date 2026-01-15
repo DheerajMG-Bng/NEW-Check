@@ -1,0 +1,17 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+nltk
+speechrecognition
+pyaudio
+nltk
+pickle5
+pyttsx3
+requests
+googletrans==4.0.0-rc1
+
